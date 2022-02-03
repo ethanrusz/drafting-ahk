@@ -1,6 +1,6 @@
 # drafting-ahk
 
-A collection of useful drafting scripts powered by AHK.
+A collection of helpful drafting scripts powered by AHK.
 
 ## Macros
 
